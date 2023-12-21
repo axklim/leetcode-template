@@ -1,0 +1,6 @@
+{
+    "name": "k4640/leetcode",
+    "require": {
+        "php": "^8.1"
+    }
+}
